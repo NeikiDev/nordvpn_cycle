@@ -30,7 +30,7 @@ python3 nordvpn_switcher.py
 
 <b>The time have to be more than 30 Seconds (Otherwise NordVPN have connection issues!)</b>
 
-<img src="https://i.imgur.com/W86i67rm.jpg">
+![Example Image](https://i.imgur.com/W86i67rm.jpg)
 
 ## Questions? Neiki#4405
 
