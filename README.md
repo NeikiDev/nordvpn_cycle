@@ -1,4 +1,4 @@
-# NordVPN Automatic Switcher
+# NordVPN Automatic Cycler
 ## Only for Linux based OS 
 <b>Made by NeikiDev</b>
 <b>Discord: Neiki#4405</b>
@@ -11,7 +11,7 @@
 
 ### Git Clone
 ```
-git clone https://github.com/NeikiDev/nordvpn_switcher.git
+git clone https://github.com/NeikiDev/nordvpn_cycle.git
 ```
 ### Open Folder
 ```
