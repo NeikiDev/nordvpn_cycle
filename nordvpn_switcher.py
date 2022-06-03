@@ -2,7 +2,7 @@ import os
 import subprocess
 def banner():
  os.system("clear")
- os.system("figlet Nordvpn Switcher")
+ os.system("figlet Nordvpn Cycler")
  print("Code made by: CryptoCat44 and NeikiDev")
  print("Version: 1.0.3 | https://github.com/neikidev")
  print("")
